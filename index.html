@@ -3,42 +3,81 @@
 <head>
   <meta charset="UTF-8">
   <title>Turah Rae | Mini Projects</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background: #f5f5f5;
-      padding: 40px;
-      text-align: center;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f0f2f5;
+      margin: 0;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
+
     h1 {
-      color: #333;
+      color: #2c3e50;
+      margin-bottom: 0.5rem;
     }
-    ul {
-      list-style-type: none;
-      padding: 0;
+
+    p {
+      color: #555;
+      margin-bottom: 2rem;
     }
-    li {
-      margin: 10px 0;
+
+    .projects {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1.5rem;
+      width: 100%;
+      max-width: 900px;
     }
-    a {
+
+    .card {
+      background-color: #fff;
+      padding: 1.5rem;
+      border-radius: 12px;
+      box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 10px 18px rgba(0, 0, 0, 0.12);
+    }
+
+    .card a {
       text-decoration: none;
       color: #007bff;
-      font-size: 18px;
+      font-size: 1.1rem;
+      font-weight: 600;
     }
-    a:hover {
+
+    .card a:hover {
       text-decoration: underline;
     }
   </style>
 </head>
 <body>
-  <h1>Welcome to My Mini Projects</h1>
-  <p>Select a project to view:</p>
-  <ul>
-    <li><a href="./Billing-Form/">Billing Form</a></li>
-    <li><a href="./Charging/">Charging</a></li>
-    <li><a href="./Guest">Guest Tracking</a></li>
-    <li><a href="./QRcode/">QR Code Generator</a></li>
-    <li><a href="./Twt">Twitter</a><li>
-  </ul>
+  <h1>✨ Welcome to My Mini Projects</h1>
+  <p>Select a project to explore</p>
+
+  <div class="projects">
+    <div class="card">
+      <a href="./Billing-Form/">💳 Billing Form</a>
+    </div>
+    <div class="card">
+      <a href="./Charging/">⚡Charging</a>
+    </div>
+    <div class="card">
+      <a href="./Guest">🧾 Guest Tracking</a>
+    </div>
+    <div class="card">
+      <a href="./QRcode/">🔲 QR Code Generator</a>
+    </div>
+    <div class="card">
+      <a href="./Twt">🐦 Twitter UI</a>
+    </div>
+  </div>
 </body>
 </html>
