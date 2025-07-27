@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #001a1a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h2{
+    position: absolute;
+    text-align: center;
+    top: 50px;
+    color: white;
+    font: 8em;
+}
+
+#div1{
+    font-size: 20em;
+}
+
+.fa{
+    color: #00ffff;
+}
