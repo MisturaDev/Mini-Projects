@@ -13,7 +13,7 @@ Click on each project name to view it live:
 - [⚡ Charging Interface](https://turahrae.github.io/Mini-Projects/Charging/) — HTML + CSS + JavaScript  
 - [🧑‍💼 Guest Page](https://turahrae.github.io/Mini-Projects/Guest/) — HTML + CSS  
 - [📷 QR Code Page](https://turahrae.github.io/Mini-Projects/QRcode/) — HTML + CSS  
-- [🐦 Twitter Clone](https://turahrae.github.io/Mini-Projects/Twitter/) — HTML + CSS  
+- [🐦 Twitter Clone](https://turahrae.github.io/Mini-Projects/Twt/) — HTML + CSS  
 
 ## 📁 Folder Structure
 Mini-Projects/
