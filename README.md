@@ -36,7 +36,7 @@ Mini-Projects/
 │   └── index.html
 ├── QRcode/
 │   └── index.html
-├── WhatsApp-UI/
+├── Twitter/
 │   └── index.html
 ```
 
