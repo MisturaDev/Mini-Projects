@@ -1,14 +1,14 @@
 # 🌟 Mini Projects
 
-🗂️ About This Repository
-A personal collection of beginner web projects built with HTML, CSS and a bit of JavaScript.
-Each project is simple, responsive and created to practice structure, layout and basic interactivity.
+## 🗂️ About This Repository
 
-While most of the projects were built in 2023, I pushed them to GitHub in 2025 
-as part of my learning archive and to make them easily accessible online.
-These mini projects reflect my learning journey and have helped me 
-strengthen my frontend skills one step at a time.
+A personal collection of beginner web projects built with **HTML**, **CSS** and some **JavaScript**.  
+Each project is simple, responsive and designed to practice structure, layout and basic interactivity.
 
+Most of these projects were created in 2023 and pushed to GitHub in 2025 as part of my learning archive.  
+They reflect my development journey and have helped me strengthen my frontend skills step by step.
+
+---
 
 ## 🔗 Live Previews
 
@@ -21,7 +21,11 @@ Click on each project name to view it live:
 - [🔲 QR Code Page](https://turahrae.github.io/Mini-Projects/QRcode/) — HTML + CSS  
 - [🐦 Twitter Clone](https://turahrae.github.io/Mini-Projects/Twt/) — HTML + CSS  
 
+---
+
 ## 📁 Folder Structure
+
+```bash
 Mini-Projects/
 ├── index.html              ← Homepage 
 ├── Billing-Form/
@@ -34,19 +38,23 @@ Mini-Projects/
 │   └── index.html
 ├── WhatsApp-UI/
 │   └── index.html
-
-## 🛠️ Built With
-
-- HTML
-- CSS
-- JavaScript (for the Charging Interface)
-
-## 👩🏽‍💻 About Me
-
-Hi, I’m **Mistura**, an aspiring Frontend Developer learning by building. 
-Each mini-project represents a milestone in my journey.
+```
 
 ---
 
-``Made with ❤️ while learning, focusing and building.``
+## 🛠️ Built With
 
+- HTML  
+- CSS  
+- JavaScript (for the Charging Interface)
+
+---
+
+## 👩‍💻 About Me
+
+Hi, I’m Mistura, a Frontend Developer learning by building.  
+Each mini-project represents a milestone in my journey and growth as a developer.
+
+---
+
+Made with ❤️ while learning, focusing, and building.
