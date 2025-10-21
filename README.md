@@ -57,4 +57,4 @@ Each mini-project represents a milestone in my journey and growth as a developer
 
 ---
 
-Made with ❤️ while learning, focusing, and building.
+Made with ❤️ while learning, focusing and building.
