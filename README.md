@@ -14,12 +14,12 @@ They reflect my development journey and have helped me strengthen my frontend sk
 
 Click on each project name to view it live:
 
-- [🏠 Homepage](https://turahrae.github.io/Mini-Projects/) — HTML + CSS  
-- [💳 Billing Form](https://turahrae.github.io/Mini-Projects/Billing-Form/) — HTML + CSS  
-- [⚡ Charging Interface](https://turahrae.github.io/Mini-Projects/Charging/) — HTML + CSS + JavaScript  
-- [🧾 Guest Page](https://turahrae.github.io/Mini-Projects/Guest/) — HTML + CSS  
-- [🔲 QR Code Page](https://turahrae.github.io/Mini-Projects/QRcode/) — HTML + CSS  
-- [🐦 Twitter Clone](https://turahrae.github.io/Mini-Projects/Twt/) — HTML + CSS  
+- [🏠 Homepage](https://misturadev.github.io/Mini-Projects/) — HTML + CSS  
+- [💳 Billing Form](https://misturadev.github.io/Mini-Projects/Billing-Form/) — HTML + CSS  
+- [⚡ Charging Interface](https://misturadev.github.io/Mini-Projects/Charging/) — HTML + CSS + JavaScript  
+- [🧾 Guest Page](https://misturadev.github.io/Mini-Projects/Guest/) — HTML + CSS  
+- [🔲 QR Code Page](https://misturadev.github.io/Mini-Projects/QRcode/) — HTML + CSS  
+- [🐦 Twitter Clone](https://misturadev.github.io/Mini-Projects/Twt/) — HTML + CSS  
 
 ---
 
